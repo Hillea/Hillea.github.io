@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+The R Club is part of the [Research Training Group 2660](https://www.uni-wuerzburg.de/grk2660/news/). The target group are PhD researchers in psychology and neuroscience. Responsible for organizing the R Club is [Lea Hildebrandt](https://www.psychologie.uni-wuerzburg.de/expklin/personen/lea-hildebrandt/), but all participants are very welcome to contribute.

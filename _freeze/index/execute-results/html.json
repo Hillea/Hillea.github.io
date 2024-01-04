@@ -1,0 +1,14 @@
+{
+  "hash": "c0d8cab7bdabd7af3791207cf24692ad",
+  "result": {
+    "markdown": "---\ntitle: \"R Club Würzburg\"\n---\n\n\nThis is the course website of the R Club of the [Research Training Group 2660](https://www.uni-wuerzburg.de/grk2660/news/) at the University and University Clinic in Würzburg, Germany - but it's open to everyone if space is available!\n\nThe R Club is a hands-on beginner-friendly R course/coding club. We will start with the basics and will switch to topics that are of interest to the majority (similar to a Journal Club). In the beginning, Lea will teach, but the format may change to others presenting solutions to problems they encountered or topics they find interesting. This way, we can all learn together!\n\nWe meet weekly on Tuesdays, 16:00 - 18:00 in Room 213 at the Marcusstr, starting in January 2024. The syllabus can be found [here](https://docs.google.com/document/d/1ZJPsgPMPv_2EYwyGL7kv9Mb846iilznj3cuKNvwuINc/edit#heading=h.9xs7fuefba6l). On this page, the slides etc. will be linked.\n\n| Session | Date     | Topic                                          | Preparation/Notes     |\n|-------------|-------------|--------------------------------|--------------|\n| 1       | 9.01.24  | Intro to R & RStudio                           | Install R and RStudio |\n| 2       | 16.01.24 | Data Wrangling                                 |                       |\n| 3       | 23.01.24 | Data Visualization                             |                       |\n| 4       | 30.01.24 | Preprocessing, e.g. physio data                |                       |\n| 5       | 06.02.24 | Preprocessing                                  |                       |\n| 6       | 13.02.24 | (are we continuing during the semester break?) |                       |\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1+1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

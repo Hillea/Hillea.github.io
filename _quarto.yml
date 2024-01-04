@@ -1,0 +1,27 @@
+project:
+  type: website
+
+execute:
+    freeze: auto
+
+website:
+  title: "R Club Würzburg"
+  navbar:
+    background: secondary
+    search: true
+    right:
+      - href: index.qmd
+        text: Home
+      - slides.qmd  
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
+
+
