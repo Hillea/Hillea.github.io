@@ -5,7 +5,7 @@ execute:
     freeze: auto
 
 website:
-  title: "R Club Würzburg"
+  title: "Lea K. Hildebrandt"
   navbar:
     background: secondary
     search: true
