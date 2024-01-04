@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "R Club Würzburg",
+    "section": "",
+    "text": "This is the course website of the R Club of the Research Training Group 2660 at the University and University Clinic in Würzburg, Germany - but it’s open to everyone if space is available!\nThe R Club is a hands-on beginner-friendly R course/coding club. We will start with the basics and will switch to topics that are of interest to the majority (similar to a Journal Club). In the beginning, Lea will teach, but the format may change to others presenting solutions to problems they encountered or topics they find interesting. This way, we can all learn together!\nWe meet weekly on Tuesdays, 16:00 - 18:00 in Room 213 at the Marcusstr, starting in January 2024. The syllabus can be found here. On this page, the slides etc. will be linked.\n\n\n\n\n\n\n\n\n\nSession\nDate\nTopic\nPreparation/Notes\n\n\n\n\n1\n9.01.24\nIntro to R & RStudio\nInstall R and RStudio\n\n\n2\n16.01.24\nData Wrangling\n\n\n\n3\n23.01.24\nData Visualization\n\n\n\n4\n30.01.24\nPreprocessing, e.g. physio data\n\n\n\n5\n06.02.24\nPreprocessing\n\n\n\n6\n13.02.24\n(are we continuing during the semester break?)\n\n\n\n\n\n1+1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "The R Club is part of the Research Training Group 2660. The target group are PhD researchers in psychology and neuroscience. Responsible for organizing the R Club is Lea Hildebrandt, but all participants are very welcome to contribute."
+  }
+]
