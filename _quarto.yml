@@ -12,7 +12,6 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - slides.qmd  
       - about.qmd
 
 format:
